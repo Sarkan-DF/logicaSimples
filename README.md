@@ -1,4 +1,4 @@
-Programa starter full stack web developer
-Introdução à programação web
-Atividade prática 01 - Lógica simples
+Programa starter full stack web developer<br>
+Introdução à programação web<br>
+Atividade prática 01 - Lógica simples<br>
 Growdev
